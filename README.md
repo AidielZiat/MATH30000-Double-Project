@@ -1,6 +1,6 @@
 # MATH30000 Double Project
 
-Welcome to the repository for my final year project, "Variable Selection in Regression Analysis," completed during my degree at the University of Manchester. Under the guidance of Dr. Christiana Charalambous, I achieved a first-class result for this project.
+Welcome to the repository for my final year project, "Variable Selection in Regression Analysis", completed during my degree at the University of Manchester. Under the guidance of Dr. Christiana Charalambous, I achieved a first-class result for this project.
 
 ## Project Description
 
