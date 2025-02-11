@@ -13,7 +13,6 @@ In this repository, you'll find all the working files and materials related to m
 - Project documentation and reports (Pending)
 - Code implementations and scripts.
 - Data sets and datasets used for analysis.
-- Any additional resources and references. (Pending)
 
 ## Project Outcomes
 
