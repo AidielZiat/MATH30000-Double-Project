@@ -10,7 +10,7 @@ This project explores the crucial topic of variable selection in regression anal
 
 In this repository, you'll find all the working files and materials related to my MATH30000 Double Project. The contents include:
 
-- Project documentation and reports (Pending)
+- Project documentation and reports
 - Code implementations and scripts.
 - Data sets and datasets used for analysis.
 
