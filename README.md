@@ -19,7 +19,7 @@ In this repository, you'll find all the working files and materials related to m
 - Project Title: "Variable Selection in Regression Analysis."
 - University: University of Manchester.
 - Supervisor: Dr. Christiana Charalambous.
-- Result: First-class.
+- Result: First-class (89%)
 
 ## Contributing
 
